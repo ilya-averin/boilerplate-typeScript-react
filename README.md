@@ -1,7 +1,4 @@
-# Webpacktemplate, React Boilerplate BiBip
-
-Go to the app:
-# cd webpacktemplate
+# Webpacktemplate/Boilerplate: React, TypeScript 
 
 # Install dependencies:
  npm install
